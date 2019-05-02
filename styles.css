@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}       
+.button{ 
+    display: flex; 
+    justify-content: center; 
+} 
+p{ 
+    color:blue;
+} 
+body{ 
+    background-color:gold;
+} 
